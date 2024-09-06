@@ -1,2 +1,3 @@
-cd C:\Lib\expressivegraphics.github.io
+cd ..
 bundle exec jekyll build --no-watch
+pause

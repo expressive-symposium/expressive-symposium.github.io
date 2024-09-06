@@ -1,2 +1,2 @@
-cd C:\Lib\expressivegraphics.github.io
+cd ..
 bundle exec jekyll serve --baseurl '/'

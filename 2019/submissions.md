@@ -15,7 +15,7 @@ The Expressive symposium explores the capacity of computer graphics, animation, 
 
 * Expressive __interaction__ explores models, algorithms, and technologies for sketch-based interfaces, particularly classifying and recognizing hand-drawn shapes as a way to create or edit digital models, text, mathematics, or 3D shapes.
 
-[Expressive 2019](http://expressive.graphics/2019) will take place in Genova, Italy, May 5-6, 2019 --- co-located with [Eurographics 2019](https://www.eurographics2019.it/) in Genova.
+[Expressive 2019](/2019) will take place in Genova, Italy, May 5-6, 2019 --- co-located with [Eurographics 2019](https://www.eurographics2019.it/) in Genova.
 
 Expressive technical papers will be submitted, evaluated, and presented in a single, unified track. This unification reflects the ongoing evolution of the symposium, which originated as the union of three separate events: Computational Aesthetics (CAe), Non-Photorealistic Animation and Rendering (NPAR), and Sketch-Based Interfaces and Modelling (SBIM). The symposium will also include an arts program, posters and demos, and presentations of published journal articles.
 
@@ -110,7 +110,7 @@ Topics include, but are not limited to:
 All work must be previously unpublished. Production and Meta papers need not contain original research or results, but must make a substantive contribution to the knowledge in the field. Papers should be 4–10 pages in length (excluding citations). Papers longer than 10 pages must make a very significant contribution. 
 
 Paper submission is electronic using the [SRM]({{site.symposium[2019].submission}}) system. Expressive uses a double-blind reviewing process, so submissions should be appropriately anonymized.
-For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](http://expressive.graphics/2019/instructions/).
+For detailed instructions to submit papers, posters, videos and other materials, please view the [submission instructions](/2019/instructions/).
 
 ---
 
@@ -156,7 +156,7 @@ We seek posters and demos submissions that show work that pertains to all topics
 
 All submissions must be made through the Eurographics SRM conference submission site. Please feel welcome to contact the Posters and Demos chair Jose Echevarria at [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}}) if you have any questions.
 
-For detailed instructions to submit posters, demos and other materials, please view the [submission instructions](http://expressive.graphics/2019/instructions/).
+For detailed instructions to submit posters, demos and other materials, please view the [submission instructions](/2019/instructions/).
 
 ---
 
@@ -206,7 +206,7 @@ Submissions can also optionally include supplementary materials, such as additio
 
 Please feel welcome to contact the Arts Program chairs Pedro Cruz and Daniel Berio at [{{site.symposium[page.year].contact-arts}}](mailto:{{site.symposium[page.year].contact-arts}}) if you have any questions.
 
-For detailed instructions to submit artworks and other materials, please view the [submission instructions](http://expressive.graphics/2019/instructions/).
+For detailed instructions to submit artworks and other materials, please view the [submission instructions](/2019/instructions/).
 
 ---
 
