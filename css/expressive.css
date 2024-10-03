@@ -110,7 +110,9 @@ img#venue {
   margin-top: 0px;
 }
 
-
+.panel-heading, .twitter {
+  margin-bottom: 0;
+}
 
 #sponsors img {
   padding: 0em 1em;
