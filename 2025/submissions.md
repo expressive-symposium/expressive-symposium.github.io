@@ -238,13 +238,13 @@ The work should be published in the July 2018 -- July 2019 time-frame, and not h
  -->
 ---
 
-### Contact
+<!-- ### Contact
 
 Conference chairs can be contacted via the following emails:
 
 * General chairs: [{{site.symposium[page.year].contact}}](mailto:{{site.symposium[page.year].contact}})
 * Program/Paper chairs: [{{site.symposium[page.year].contact-papers}}](mailto:{{site.symposium[page.year].contact-papers}})
-* Poster + Demo chair: [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}})
+* Poster + Demo chair: [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}}) -->
 
 {::options parse_block_html="true" /}
 
