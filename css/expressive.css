@@ -105,12 +105,17 @@ img#venue {
   padding: 0px;
 }
 
+.responsive-twitter {
+  border: 0px;
+}
 
 .panel h4, .panel h3, .panel h2, .panel h1 {
   margin-top: 0px;
 }
 
-
+.panel-heading + .twitter {
+  margin-bottom: 0;
+}
 
 #sponsors img {
   padding: 0em 1em;
