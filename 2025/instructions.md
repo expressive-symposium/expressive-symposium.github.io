@@ -4,7 +4,7 @@ title: Paper Submission Instructions
 excerpt: "Paper Submission Instructions for Expressive 2025"
 headline: "Paper Submission Instructions"
 image:
-  card: 2019/expressiveCard.jpg
+  card: 2025/expressiveCard.jpg
 year: 2025
 ---
 

@@ -5,7 +5,7 @@ image:
   feature: previous.jpg
   credit: "Glen Noble"
   creditlink: "https://unsplash.com/photos/o4-YyGi5JBc"
-  card: 2019/expressiveCard.jpg
+  card: 2025/expressiveCard.jpg
 year: 2025
 ---
 {::options parse_block_html="true" /}

@@ -4,7 +4,7 @@ title: Expressive 2025
 excerpt: "Expressive Joint Symposium 2025 Website, rendering, with style!"
 image:
   feature: 2025/teaser.jpg
-  card: 2019/expressiveCard.jpg
+  card: 2025/expressiveCard.jpg
 year: 2025
 ---
 ### Expressive 2025 is officially co-located with Eurographics 2025 in London!

@@ -4,7 +4,7 @@ excerpt: "Expressive Symposium Website, rendering, with style!"
 search_omit: true
 image:
   feature: 2025/teaser.jpg
-  card: 2019/expressiveCard.jpg
+  card: 2025/expressiveCard.jpg
 year: 2025
 ---
 <!-- Once the new conference website is released, uncomment the following section: -->

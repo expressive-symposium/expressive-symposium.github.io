@@ -3,7 +3,7 @@ layout: submission
 title: ACM/EG Expressive 2025 — Call for Submissions
 excerpt: "Submit your work to Expressive 2019"
 image:
-  card: 2019/expressiveCard.jpg
+  card: 2025/expressiveCard.jpg
 year: 2025
 ---
 

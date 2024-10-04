@@ -5,7 +5,7 @@ image:
   feature: 2025/venue.png
   credit: "Covent Garden - London Film Museum"
   creditlink: "https://www.coventgarden.com/listings/london-film-museum"
-  card: 2019/expressiveCard.jpg
+  card: 2025/expressiveCard.jpg
 year: 2025
 ---
 

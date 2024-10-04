@@ -2,7 +2,7 @@
 layout: default
 title: Keynotes
 image:
-  card: 2019/expressiveCard.jpg
+  card: 2025/expressiveCard.jpg
 year: 2025
 ---
 

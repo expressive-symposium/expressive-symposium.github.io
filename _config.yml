@@ -33,7 +33,7 @@ defaults:
       comments: true
       share: true
       image:
-        card: 2019/expressiveCard.jpg
+        card: 2025/expressiveCard.jpg
 
 # Outputting
 exclude: [
