@@ -218,12 +218,10 @@ chairs2019:
 
 
 chairs2025:
-  general: Joaquim Jorge
-  generalAff: Instituto Superior Técnico, Lisbon, Portugal
-  general2: Marc Christie
-  general2Aff: University of Rennes 1, Rennes, France
-  general3: Fotis Liarokapis
-  general3Aff: Cyens Centre of Excellence, Cyprus
+  general: Marc Christie
+  generalAff: University of Rennes 1, Rennes, France
+  general2: Fotis Liarokapis
+  general2Aff: Cyens Centre of Excellence, Cyprus
   program: Chiara Eva Catalano
   programAff: CNR Imati, Genova, Italy
   program2: Amal Dev Parakkat
