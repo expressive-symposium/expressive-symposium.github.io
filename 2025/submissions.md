@@ -256,7 +256,6 @@ Conference chairs can be contacted via the following emails:
 
 | __General Co-chairs:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|| {{ site.chairs2025.general }}, _{{ site.chairs2025.generalAff }}_
 |                        || {{ site.chairs2025.general2 }}, _{{ site.chairs2025.general2Aff }}_
-|                        || {{ site.chairs2025.general3 }}, _{{ site.chairs2025.general3Aff }}_
 | __Program Co-chairs:__ || {{ site.chairs2025.program }}, _{{ site.chairs2025.programAff }}_
 |                            || {{ site.chairs2025.program2 }}, _{{ site.chairs2025.program2Aff }}_
 | __Posters and Demo Chair:__ || {{ site.chairs2025.postersdemo }}, _{{ site.chairs2025.postersdemoAff }}_

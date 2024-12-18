@@ -27,7 +27,9 @@ The event is organized through a joint submission system with two specific track
 
 <!-- featured images -->
 <figure class="top3" >
-	<img class="col-xs-12 col-sm-4" src="/img/2025/2.png" alt="Non-photorealisticRendering">
-	<img class="col-xs-12 col-sm-4" src="/img/2025/1.png" alt="ArtsAndInteraction">
-	<img class="col-xs-12 col-sm-4" src="/img/2018/CAe.png" alt="CAe">
+	<img class="col-xs-12 col-sm-3" src="/img/2025/2.png" alt="Non-photorealisticRendering">
+	<img class="col-xs-12 col-sm-3" src="/img/2025/3.jpeg" alt="ArtsAndInteraction">
+	<img class="col-xs-12 col-sm-3" src="/img/2025/1.png" alt="ArtsAndInteraction">
+	<img class="col-xs-12 col-sm-3" src="/img/2025/4.jpeg" alt="ArtsAndInteraction">
+	
 </figure>
