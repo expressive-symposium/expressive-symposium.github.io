@@ -27,9 +27,17 @@ The event is organized through a joint submission system with two specific track
 
 <!-- featured images -->
 <figure class="top3" >
-	<img class="col-xs-12 col-sm-3" src="/img/2025/2.png" alt="Non-photorealisticRendering">
-	<img class="col-xs-12 col-sm-3" src="/img/2025/3.jpeg" alt="ArtsAndInteraction">
-	<img class="col-xs-12 col-sm-3" src="/img/2025/1.png" alt="ArtsAndInteraction">
-	<img class="col-xs-12 col-sm-3" src="/img/2025/4.jpeg" alt="ArtsAndInteraction">
-	
+	<img class="col-xs-12 col-sm-4" src="/img/2025/2.png" alt="Non-photorealisticRendering">
+	<img class="col-xs-12 col-sm-4" src="/img/2025/3.png" alt="ArtsAndInteraction">
+	<img class="col-xs-12 col-sm-4" src="/img/2025/1.png" alt="ArtsAndInteraction">
+</figure>
+<figure class="top3" >
+	<img class="col-xs-12 col-sm-4" src="/img/2025/4.png" alt="Non-photorealisticRendering">
+	<img class="col-xs-12 col-sm-4" src="/img/2025/5.png" alt="ArtsAndInteraction">
+	<img class="col-xs-12 col-sm-4" src="/img/2025/6.png" alt="ArtsAndInteraction">
+</figure>
+<figure class="top3" >
+	<img class="col-xs-12 col-sm-4" src="/img/2025/7.png" alt="Non-photorealisticRendering">
+	<img class="col-xs-12 col-sm-4" src="/img/2025/8.png" alt="ArtsAndInteraction">
+	<img class="col-xs-12 col-sm-4" src="/img/2025/9.png" alt="ArtsAndInteraction">
 </figure>
