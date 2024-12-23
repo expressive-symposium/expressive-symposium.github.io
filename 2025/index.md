@@ -32,7 +32,7 @@ The event is organized through a joint submission system with two specific track
 	<img class="col-xs-12 col-sm-4" src="/img/2025/1.png" alt="ArtsAndInteraction">
 </figure>
 <figure class="top3" >
-	<img class="col-xs-12 col-sm-4" src="/img/2025/4.png" alt="Non-photorealisticRendering">
+	<img class="col-xs-12 col-sm-4" src="/img/2025/10.png" alt="Non-photorealisticRendering">
 	<img class="col-xs-12 col-sm-4" src="/img/2025/5.png" alt="ArtsAndInteraction">
 	<img class="col-xs-12 col-sm-4" src="/img/2025/6.png" alt="ArtsAndInteraction">
 </figure>
