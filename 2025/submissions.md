@@ -44,12 +44,17 @@ The _Expressive_ symposium explores the capacity of computer graphics, animation
 {% capture paperduetime %}{{site.symposium[page.year].paper | date: '%s'}}{% endcapture %}
 {% capture extensionduetime %}{{site.symposium[page.year].extension | date: '%s'}}{% endcapture %}
 {% capture acceptanceduetime %}{{site.symposium[page.year].acceptance | date: '%s'}}{% endcapture %}
+{% capture firstreviewnotificationduetime %}{{site.symposium[page.year].first-review-notification | date: '%s'}}{% endcapture %}
+{% capture revisedsubmissionduetime %}{{site.symposium[page.year].revised-submission | date: '%s'}}{% endcapture %}
+{% capture secondreviewnotificationduetime %}{{site.symposium[page.year].second-review-notification | date: '%s'}}{% endcapture %}
 {% capture camerareadyduetime %}{{site.symposium[page.year].camera-ready | date: '%s'}}{% endcapture %}
 
 {% if site.symposium[page.year] contains 'abstract' %}| __Abstract due:__ {% if abstractduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].abstract }}{% if abstractduetime < nowtime %}~~{% endif %} |{% endif %}
 | __Paper submission deadline:__ {% if paperduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].paper }}{% if paperduetime < nowtime %}~~{% endif %} |
 {% if site.symposium[page.year] contains 'extension' %}| __Extended deadline:__ {% if extensionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].extension }}{% if extensionduetime < nowtime %}~~{% endif %} |{% endif %}
-| __Acceptance notification:__ {% if acceptanceduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].acceptance }}{% if acceptanceduetime < nowtime %}~~{% endif %} |
+| __First review notification (Possible outcomes: Conditionally accepted as a journal paper, Accepted as a conference paper, Reject):__ {% if firstreviewnotificationduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].first-review-notification }}{% if firstreviewnotificationduetime < nowtime %}~~{% endif %} |
+| __Revised paper submission deadline (for Conditionally accepted journal papers):__ {% if revisedsubmissionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].revised-submission }}{% if revisedsubmissionduetime < nowtime %}~~{% endif %} |
+| __Second review notification:__ {% if secondreviewnotificationduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].second-review-notification }}{% if secondreviewnotificationduetime < nowtime %}~~{% endif %} |
 {% if site.symposium[page.year] contains 'camera-ready' %}| __Camera-ready submission:__ {% if camerareadyduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].camera-ready }}{% if camerareadyduetime < nowtime %}~~{% endif %} |{% endif %}
 | |
 | All deadlines are at 23:59:59 UTC/GMT |
@@ -68,9 +73,15 @@ Paper submissions are invited across the broad range of areas covered by Express
 
 * __Meta:__ Statements about research that do not contain new results, e.g.: grand challenges, position papers, evaluation standards, surveys, and primers on art / aesthetics / psychophysics for a computer science audience. We welcome papers that discuss the challenges of bridging computational expression across disciplines.
 
-Submissions can also overlap more than one of these categories. Eurographics will publish the accepted papers as a single conference proceedings and make them available online via  [Eurographics Digital Library](https://diglib.eg.org/). They will also be archived in the [ACM Digital Library](http://dl.acm.org/). 
+Submissions can also overlap more than one of these categories. 
 
-**Authors of selected papers will be invited to submit extended versions of their manuscripts to be considered for publication in a special section of [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics/) journal (Elsevier) via a fast-track review process.**
+At Expressive 2025, the Technical Papers program will have two integrated paper tracks: Journal (Elsevier Computers & Graphics) and Conference. 
+
+
+
+<!--Eurographics will publish the accepted papers as a single conference proceedings and make them available online via  [Eurographics Digital Library](https://diglib.eg.org/). They will also be archived in the [ACM Digital Library](http://dl.acm.org/). 
+
+**Authors of selected papers will be invited to submit extended versions of their manuscripts to be considered for publication in a special section of [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics/) journal (Elsevier) via a fast-track review process.** !-->
 
 ### Submission Topics
 {: .top1}
@@ -105,8 +116,18 @@ Topics include, but are not limited to:
 
 ### Submission Information
 {: .top1}
+The papers can be submitted through:
 
-Submissions will be made electronically through the Eurographics Submission and Review Management [SRM]({{site.symposium[2025].submission}}) system. Submitted papers must be anonymous and formatted according to the Eurographics [Author’s guidelines](http://expressive.graphics/2025/instructions/). There is no strict page limit, but the length should justify the contribution. If you have any questions, please feel welcome to contact the Program chairs Chiara Eva Catalano and Amal Dev Parakkat at general@expressive.graphics .
+* [Elsevier Computers and Graphics submission portal](https://www.editorialmanager.com/cag/default.aspx) (Note: please select VSI: Expressive Media 2025.) 
+
+    After reviews, the best papers will be retained for publication in the C&G journal, while other high-quality papers that do not reach the C&G bar will be redirected to the conference paper track. The submitted papers must be anonymous and formatted according to the C&G guidelines. There is no strict page limit, but the length should justify the contribution. 
+* [SRM submission system](https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025) 
+
+    The papers submitted through SRM will only be considered for the conference track. The conference proceedings will be made available online via  Eurographics Digital Library. They will also be archived in the  ACM Digital Library. The submitted papers must be anonymous and formatted in the template given [here](https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025/GetConferenceFile?fileID=17039).
+
+If you have any questions, please feel welcome to contact the Program chairs, Chiara Eva Catalano and Amal Dev Parakkat, at [{{site.symposium[page.year].contact}}](mailto:{{site.symposium[page.year].contact}})
+
+<!--Submissions will be made electronically through the Eurographics Submission and Review Management [SRM]({{site.symposium[2025].submission}}) system. Submitted papers must be anonymous and formatted according to the Eurographics [Author’s guidelines](http://expressive.graphics/2025/instructions/). There is no strict page limit, but the length should justify the contribution. If you have any questions, please feel welcome to contact the Program chairs Chiara Eva Catalano and Amal Dev Parakkat at general@expressive.graphics . !-->
 
 ---
 
@@ -150,7 +171,7 @@ All submissions should be 4 pages, written in English, including a title page wi
 
 ### Submission
 
-All submissions must be made through the Eurographics SRM conference submission site. If you have any questions, please feel welcome to contact the Posters and Demos chairs Daniel Berio and Alexandre Bruckert at [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}}) .
+All submissions must be made through the Eurographics [SRM conference submission site](https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025). If you have any questions, please feel welcome to contact the Posters and Demos chairs Daniel Berio and Alexandre Bruckert at [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}}) .
 
 For detailed instructions to submit posters, demos and other materials, please view the [submission instructions](http://expressive.graphics/2025/instructions/).
 

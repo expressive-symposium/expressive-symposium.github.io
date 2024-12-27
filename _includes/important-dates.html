@@ -7,13 +7,19 @@
 	{% capture paperduetime %}{{site.symposium[page.year].paper | date: '%s'}}{% endcapture %}
 	{% capture extensionduetime %}{{site.symposium[page.year].extension | date: '%s'}}{% endcapture %}
 	{% capture acceptanceduetime %}{{site.symposium[page.year].acceptance | date: '%s'}}{% endcapture %}
+  {% capture firstreviewnotificationduetime %}{{site.symposium[page.year].first-review-notification | date: '%s'}}{% endcapture %}
+{% capture revisedsubmissionduetime %}{{site.symposium[page.year].revised-submission | date: '%s'}}{% endcapture %}
+{% capture secondreviewnotificationduetime %}{{site.symposium[page.year].second-review-notification | date: '%s'}}{% endcapture %}
 	{% capture camerareadyduetime %}{{site.symposium[page.year].camera-ready | date: '%s'}}{% endcapture %}
 	{% capture generalartworksubmissionduetime %}{{site.symposium[page.year].general-artwork-submission | date: '%s'}}{% endcapture %}
     <span class="bold">Symposium:</span> <span><b>{{ site.symposium[page.year].date }}</b></span><br>
     {% if site.symposium[page.year] contains 'abstract' %}<span>Abstract due:</span> <span>{% if abstractduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].abstract }}{% if abstractduetime < nowtime %}</s>{% endif %}</span><br>{% endif %}
     <span>Paper deadline:</span> <span>{% if paperduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].paper }}{% if paperduetime < nowtime %}</s>{% endif %}</span><br>
     {% if site.symposium[page.year] contains 'extension' %}<span>Extended deadline:</span> <span>{% if extensionduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].extension }}{% if extensionduetime < nowtime %}</s>{% endif %}</span><br>{% endif %}
-    <span>Acceptance by:</span> <span>{% if acceptanceduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].acceptance }}{% if acceptanceduetime < nowtime %}</s>{% endif %}</span><br>
+    {% if site.symposium[page.year] contains 'acceptance' %}<span>Acceptance by:</span> <span>{% if acceptanceduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].acceptance }}{% if acceptanceduetime < nowtime %}</s>{% endif %}</span><br>{% endif %}
+    {% if site.symposium[page.year] contains 'first-review-notification' %}<span>First review:</span> <span>{% if firstreviewnotificationduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].first-review-notification }}{% if firstreviewnotificationduetime < nowtime %}</s>{% endif %}</span><br>{% endif %}
+    {% if site.symposium[page.year] contains 'revised-submission' %}<span>Revised submission:</span> <span>{% if revisedsubmissionduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].revised-submission }}{% if revisedsubmissionduetime < nowtime %}</s>{% endif %}</span><br>{% endif %}
+    {% if site.symposium[page.year] contains 'second-review-notification' %}<span>Second review:</span> <span>{% if secondreviewnotificationduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].second-review-notification }}{% if firstreviewnotificationduetime < nowtime %}</s>{% endif %}</span><br>{% endif %}
     {% if site.symposium[page.year] contains 'camera-ready' %}<span>Camera-ready:</span> <span>{% if camerareadyduetime < nowtime %}<s>{% endif %}{{ site.symposium[page.year].camera-ready }}{% if camerareadyduetime < nowtime %}</s>{% endif %}</span>{% endif %}
 	<br>
 	<span>Artworks/posters/demos by:</span> <span>{% if generalartworksubmissionduetime < nowtime %}<s>{% endif %}Rolling notification, closes {{site.symposium[page.year].general-artwork-submission }}{% if generalartworksubmissionduetime < nowtime %}</s>{% endif %}</span>

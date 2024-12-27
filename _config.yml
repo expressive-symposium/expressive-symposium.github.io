@@ -106,12 +106,13 @@ symposium:
       logo: /img/UNIRENNES_LOGOnoir.png
       class: col-sm-6
     paper: February 03, 2025 
-    acceptance: March 03, 2025
-    camera-ready: March 31, 2025
+    first-review-notification: March 03, 2025
+    camera-ready: April 12, 2025
     general-artwork-submission: February 03, 2025
     general-poster-demo-submission: February 03, 2025
-    journal-submission: March 15, 2019
-    contact: general@expressive.graphics
+    revised-submission: March 17, 2025
+    second-review-notification: March 31, 2025 
+    contact: chairs-expressive2025@eg.org
     contact-papers: papers@expressive.graphics
     contact-arts: arts@expressive.graphics
     contact-poster-demo: posters@expressive.graphics
@@ -122,7 +123,7 @@ symposium:
       analytics: UA-76809364-1
       verify:
     bing-verify:
-    submission: https://srmv2.eg.org/COMFy/Conference/EG_2025/
+    submission: https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025
     
 
   2019:

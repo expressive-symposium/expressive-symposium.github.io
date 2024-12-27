@@ -40,12 +40,17 @@ WICED 2025 is organized as a joint event with Expressive 2025, and co-located wi
 {% capture paperduetime %}{{site.symposium[page.year].paper | date: '%s'}}{% endcapture %}
 {% capture extensionduetime %}{{site.symposium[page.year].extension | date: '%s'}}{% endcapture %}
 {% capture acceptanceduetime %}{{site.symposium[page.year].acceptance | date: '%s'}}{% endcapture %}
+{% capture firstreviewnotificationduetime %}{{site.symposium[page.year].first-review-notification | date: '%s'}}{% endcapture %}
+{% capture revisedsubmissionduetime %}{{site.symposium[page.year].revised-submission | date: '%s'}}{% endcapture %}
+{% capture secondreviewnotificationduetime %}{{site.symposium[page.year].second-review-notification | date: '%s'}}{% endcapture %}
 {% capture camerareadyduetime %}{{site.symposium[page.year].camera-ready | date: '%s'}}{% endcapture %}
 
 {% if site.symposium[page.year] contains 'abstract' %}| __Abstract due:__ {% if abstractduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].abstract }}{% if abstractduetime < nowtime %}~~{% endif %} |{% endif %}
 | __Paper submission deadline:__ {% if paperduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].paper }}{% if paperduetime < nowtime %}~~{% endif %} |
 {% if site.symposium[page.year] contains 'extension' %}| __Extended deadline:__ {% if extensionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].extension }}{% if extensionduetime < nowtime %}~~{% endif %} |{% endif %}
-| __Acceptance notification:__ {% if acceptanceduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].acceptance }}{% if acceptanceduetime < nowtime %}~~{% endif %} |
+| __First review notification (Possible outcomes: Conditionally accepted as a journal paper, Accepted as a conference paper, Reject):__ {% if firstreviewnotificationduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].first-review-notification }}{% if firstreviewnotificationduetime < nowtime %}~~{% endif %} |
+| __Revised paper submission deadline (for Conditionally accepted journal papers):__ {% if revisedsubmissionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].revised-submission }}{% if revisedsubmissionduetime < nowtime %}~~{% endif %} |
+| __Second review notification:__ {% if secondreviewnotificationduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].second-review-notification }}{% if secondreviewnotificationduetime < nowtime %}~~{% endif %} |
 {% if site.symposium[page.year] contains 'camera-ready' %}| __Camera-ready submission:__ {% if camerareadyduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].camera-ready }}{% if camerareadyduetime < nowtime %}~~{% endif %} |{% endif %}
 | |
 | All deadlines are at 23:59:59 UTC/GMT |
