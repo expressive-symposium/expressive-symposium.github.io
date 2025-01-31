@@ -47,7 +47,8 @@ WICED 2025 is organized as a joint event with Expressive 2025, and co-located wi
 
 {% if site.symposium[page.year] contains 'abstract' %}| __Abstract due:__ {% if abstractduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].abstract }}{% if abstractduetime < nowtime %}~~{% endif %} |{% endif %}
 | __Paper submission deadline:__ {% if paperduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].paper }}{% if paperduetime < nowtime %}~~{% endif %} |
-{% if site.symposium[page.year] contains 'extension' %}| __Extended deadline:__ {% if extensionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].extension }}{% if extensionduetime < nowtime %}~~{% endif %} |{% endif %}
+{% if site.symposium[page.year] contains 'extension' %}| __Extended full paper deadline:__ {% if extensionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].extension }}{% if extensionduetime < nowtime %}~~{% endif %} |{% endif %}
+{% if site.symposium[page.year] contains 'extention-poster-demo' %}| __Extended posters and demos deadline:__ {% if extentionposterdemoduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].extention-poster-demo }}{% if xtentionposterdemoduetime < nowtime %}~~{% endif %} |{% endif %}
 | __First review notification (Possible outcomes: Conditionally accepted as a journal paper, Accepted as a conference paper, Reject):__ {% if firstreviewnotificationduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].first-review-notification }}{% if firstreviewnotificationduetime < nowtime %}~~{% endif %} |
 | __Revised paper submission deadline (for Conditionally accepted journal papers):__ {% if revisedsubmissionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].revised-submission }}{% if revisedsubmissionduetime < nowtime %}~~{% endif %} |
 | __Second review notification:__ {% if secondreviewnotificationduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].second-review-notification }}{% if secondreviewnotificationduetime < nowtime %}~~{% endif %} |
@@ -90,4 +91,15 @@ Submissions will be made electronically through the Eurographics Submission and 
 * Evaluation methodologies and user experience
 * Analysis of film style
 
+### Submission Information
+{: .top1}
+The papers can be submitted through:
 
+* [Elsevier Computers and Graphics submission portal](https://www.editorialmanager.com/cag/default.aspx) (Note: please select VSI: Expressive Media 2025.)
+
+    After reviews, the best papers will be retained for publication in the C&G journal, while other high-quality papers that do not reach the C&G bar will be redirected to the conference paper track. The submitted papers must be anonymous <b>and formatted according to either the C&G guidelines or the EG guidelines (see below).</b> There is no strict page limit, but the length should justify the contribution. 
+* [SRM submission system](https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025) 
+
+    The papers submitted through SRM will only be considered for the conference track. The conference proceedings will be made available online via  Eurographics Digital Library. They will also be archived in the  ACM Digital Library. The submitted papers must be anonymous and formatted in the template given [here](https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025/GetConferenceFile?fileID=17039).
+
+If you have any questions, please feel welcome to contact the Program chairs, Chiara Eva Catalano and Amal Dev Parakkat, at [{{site.symposium[page.year].contact}}](mailto:{{site.symposium[page.year].contact}})
