@@ -97,7 +97,7 @@ The papers can be submitted through:
 
 * [Elsevier Computers and Graphics submission portal](https://www.editorialmanager.com/cag/default.aspx) (Note: please select VSI: Expressive Media 2025.)
 
-    After reviews, the best papers will be retained for publication in the C&G journal, while other high-quality papers that do not reach the C&G bar will be redirected to the conference paper track. The submitted papers must be anonymous <b>and formatted according to either the C&G guidelines or the EG guidelines (see below).</b> There is no strict page limit, but the length should justify the contribution. 
+    After reviews, the best papers will be retained for publication in the C&G journal, while other high-quality papers that do not reach the C&G bar will be redirected to the conference paper track. The submitted papers must be anonymous and formatted according to either the C&G guidelines or the EG guidelines (see below). There is no strict page limit, but the length should justify the contribution. 
 * [SRM submission system](https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025) 
 
     The papers submitted through SRM will only be considered for the conference track. The conference proceedings will be made available online via  Eurographics Digital Library. They will also be archived in the  ACM Digital Library. The submitted papers must be anonymous and formatted in the template given [here](https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025/GetConferenceFile?fileID=17039).
