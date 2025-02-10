@@ -42,9 +42,11 @@ Videos should be a maximum of 5 minutes in length and contain either clearly spo
 ## General Submissions
 {: .top2}
 
-Posters, demos, and artworks should be submitted in PDF format as an extended abstract (2 or more pages). They should follow the Eurographics publication guidelines described above. Rejected papers may be considered for the poster track.
+All submissions should be between 2 and 4 pages, written in English, including a title page with an abstract, keywords, and a [bibliography](https://srmv2.eg.org/COMFy/Conference/EG_2025/Instruction). The required LaTeX template is available from the SRM system. Submissions should provide a clear description of the work and the process. Posters and demos will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to demonstrate their work; creating a separate submission for a poster and a demo is unnecessary if they refer to the same project.
+<!-- Posters, demos, and artworks should be submitted in PDF format as an extended abstract (2 or more pages). They should follow the Eurographics publication guidelines described above. Rejected papers may be considered for the poster track. -->
 
-General submissions are in electronic form. Please directly email your submission to the chairs: For posters and demos: [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}}). For artworks: [{{site.symposium[page.year].contact-arts}}](mailto:{{site.symposium[page.year].contact-arts}}). Please include the following information, and attach your submission materials in the email:
+All submissions must be made through the Eurographics [SRM conference submission site](https://srmv2.eg.org/COMFy/Conference/Expressive_WICED_2025). If you have any questions, please feel welcome to contact the Posters and Demos chairs Daniel Berio and Alexandre Bruckert at [{{site.symposium[page.year].contact-poster-demo}}](mailto:{{site.symposium[page.year].contact-poster-demo}}). 
+<!-- For artworks: [{{site.symposium[page.year].contact-arts}}](mailto:{{site.symposium[page.year].contact-arts}}). Please include the following information, and attach your submission materials in the email: -->
 
 **Title: <br/>
 Author(s) Name:<br/>

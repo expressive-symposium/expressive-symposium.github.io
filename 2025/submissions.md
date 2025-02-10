@@ -51,8 +51,8 @@ The _Expressive_ symposium explores the capacity of computer graphics, animation
 
 {% if site.symposium[page.year] contains 'abstract' %}| __Abstract due:__ {% if abstractduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].abstract }}{% if abstractduetime < nowtime %}~~{% endif %} |{% endif %}
 | __Paper submission deadline:__ {% if paperduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].paper }}{% if paperduetime < nowtime %}~~{% endif %} |
-{% if site.symposium[page.year] contains 'extension' %}| __Extended full paper deadline:__ {% if extensionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].extension }}{% if extensionduetime < nowtime %}~~{% endif %} |{% endif %}
-{% if site.symposium[page.year] contains 'extention-poster-demo' %}| __Extended posters and demos deadline:__ {% if extentionposterdemoduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].extention-poster-demo }}{% if xtentionposterdemoduetime < nowtime %}~~{% endif %} |{% endif %}
+{% if site.symposium[page.year] contains 'extension' %}| __Extended full paper deadline:__ {% if extensionduetime < nowtime %}~~{% endif %}**{{ site.symposium[page.year].extension }}**{% if extensionduetime < nowtime %}~~{% endif %} |{% endif %}
+{% if site.symposium[page.year] contains 'extention-poster-demo' %}| __Extended posters and demos deadline:__ {% if extentionposterdemoduetime < nowtime %}~~{% endif %}**{{ site.symposium[page.year].extention-poster-demo }}**{% if xtentionposterdemoduetime < nowtime %}~~{% endif %} |{% endif %}
 | __First review notification (Possible outcomes: Conditionally accepted as a journal paper, Accepted as a conference paper, Reject):__ {% if firstreviewnotificationduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].first-review-notification }}{% if firstreviewnotificationduetime < nowtime %}~~{% endif %} |
 | __Revised paper submission deadline (for Conditionally accepted journal papers):__ {% if revisedsubmissionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].revised-submission }}{% if revisedsubmissionduetime < nowtime %}~~{% endif %} |
 | __Second review notification:__ {% if secondreviewnotificationduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].second-review-notification }}{% if secondreviewnotificationduetime < nowtime %}~~{% endif %} |
@@ -148,7 +148,7 @@ If you have any questions, please feel welcome to contact the Program chairs, Ch
 {% capture generalposterdemosubmissionduetime %}{{site.symposium[page.year].general-poster-demo-submission | date: '%s'}}{% endcapture %}
 
 | __Poster/Demos submission deadline:__ Rolling notification, closes {% if generalposterdemosubmissionduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].general-poster-demo-submission }}{% if generalposterdemosubmissionduetime < nowtime %}~~{% endif %} |
-{% if site.symposium[page.year] contains 'extention-poster-demo' %}| __Extended posters and demos deadline:__ {% if extentionposterdemoduetime < nowtime %}~~{% endif %}{{ site.symposium[page.year].extention-poster-demo }}{% if xtentionposterdemoduetime < nowtime %}~~{% endif %} |{% endif %}
+{% if site.symposium[page.year] contains 'extention-poster-demo' %}| __Extended posters and demos deadline:__ {% if extentionposterdemoduetime < nowtime %}~~{% endif %}**{{ site.symposium[page.year].extention-poster-demo }}**{% if xtentionposterdemoduetime < nowtime %}~~{% endif %} |{% endif %}
 | |
 | All deadlines are at 23:59:59 UTC/GMT |
 
@@ -169,7 +169,8 @@ Accepted submissions for Posters and Demos will be published together with the a
 
 ### Guidelines
 
-All submissions should be 4 pages, written in English, including a title page with an abstract, keywords, and a [bibliography](https://srmv2.eg.org/COMFy/Conference/EG_2025/Instruction). Submissions should provide a clear description of the work and the process. Posters and demos will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to demonstrate their work; creating a separate submission for a poster and a demo is unnecessary if they refer to the same project.
+All submissions should be between 2 and 4 pages, written in English, including a title page with an abstract, keywords, and a [bibliography](https://srmv2.eg.org/COMFy/Conference/EG_2025/Instruction). The required LaTeX template is available from the SRM system. Submissions should provide a clear description of the work and the process. Posters and demos will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to demonstrate their work; creating a separate submission for a poster and a demo is unnecessary if they refer to the same project.
+<!-- All submissions should be 4 pages, written in English, including a title page with an abstract, keywords, and a [bibliography](https://srmv2.eg.org/COMFy/Conference/EG_2025/Instruction). Submissions should provide a clear description of the work and the process. Posters and demos will be demonstrated and/or displayed at the conference venue. Authors of accepted works in all areas of submitted work are encouraged to demonstrate their work; creating a separate submission for a poster and a demo is unnecessary if they refer to the same project. -->
 
 ### Submission
 
