@@ -59,7 +59,7 @@ The most convenient way of travelling to London is by flight to [Heathrow Airpor
 London is one of the most popular destinations for international flights, with numerous direct routes from various countries around the world, making it easily accessible from different locations.
 
 <figure>
-<img src="/img/2025/flying_connections.PNG" width="60%" class="img-responsive pull-center">
+<img src="/img/2025/flying_connections.png" width="60%" class="img-responsive pull-center">
 </figure>
 
 ---
