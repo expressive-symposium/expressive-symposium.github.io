@@ -2,36 +2,36 @@
 layout: default
 title: Venue
 image:
-  feature: 2025/venue.png
-  credit: "Covent Garden - London Film Museum"
-  creditlink: "https://www.coventgarden.com/listings/london-film-museum"
+  feature: 2025/southbankvenue.jpg
+  credit: "BFI Southbank"
+  creditlink: "https://www.bfi.org.uk/bfi-southbank"
   card: 2025/expressiveCard.jpg
 year: 2025
 ---
 
 * **[Travel to London](#travel-to-london)**
-* **[Travel to London Film Museum](#travel-to-london-film-museum)**
+* **[Travel to BFI Southbank](#travel-to-bfi-southbank)**
 * **[Accommodation](#accommodation)**
 * **[Coffee Breaks and Lunch](#coffee-breaks-and-lunch)**
 * **[Attractions](#attractions)**
 * **[What's On](#whats-on)**
 
-Expressive 2025 will officially start and end shortly before Eurographics 2025. The symposium will be held at the London Film Museum, United Kingdom.
+Expressive 2025 will officially start and end shortly before Eurographics 2025. The symposium will be held at BFI Southbank, London SE1 8XT, United Kingdom.
 
 <div class="row">
 
 <div class="col-7 col-sm-7 col-lg-7" markdown="1">
 
-<iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.1402207316983!2d-0.10779522338085176!3d51.49229427180988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876049820df25c9%3A0xd83e10d4fdd092d7!2sThe%20Cinema%20Museum!5e0!3m2!1sen!2spt!4v1721137297471!5m2!1sen!2spt" allowfullscreen>
+<iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.343136911277!2d-0.11771348807949361!3d51.50692047169557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b7e7c78711%3A0x3427f18d546137bd!2sBFI%20Southbank!5e0!3m2!1spt-PT!2spt!4v1742469914382!5m2!1spt-PT!2spt" allowfullscreen>
 </iframe>
 
 </div>
 
 <h3>Hosting institution:</h3>
 
-<i><a href="https://www.coventgarden.com/listings/london-film-museum/">London Film Museum</a></i><br/>
+<!-- <i><a href="https://www.coventgarden.com/listings/london-film-museum/">London Film Museum</a></i><br/> -->
 
-<i>2 Dugard Way, Renfrew Rd <br/>London SE11 4TH, United Kingdom</i><br/><br/>
+<i>BFI Southbank, London SE1 8XT<br/></i><br/><br/>
 
 <!-- with the partial support of:
 
@@ -63,29 +63,29 @@ London is one of the most popular destinations for international flights, with n
 </figure>
 
 ---
-## Travel to London Film Museum
+## Travel to BFI Southbank
 
-To reach the London Film Museum from Heathrow Airport (LHR), you have several convenient options:
+To reach BFI Southbank (London SE1 8XT) from Heathrow Airport (LHR), you have several convenient options:
 
 1. By Tube (London Underground):
     * Take the Piccadilly Line from Heathrow Airport towards Central London.
     * Change at Green Park to the Jubilee Line and travel towards Waterloo.
-    * From Waterloo Station, it’s about a 10-minute walk to the London Film Museum.
+    * From Waterloo Station, it’s about a 5-minute walk to BFI Southbank.
 This journey takes approximately 50-60 minutes.
 
 2. By Train:
     * Take the Heathrow Express from Heathrow Airport to Paddington Station (15 minutes).
     * From Paddington, take the Bakerloo Line (Underground) to Waterloo.
-    * Walk to the London Film Museum from Waterloo Station.
+    * Walk to BFI Southbank from Waterloo Station.
 This option takes around 40-50 minutes.
 
 3. By Taxi:
-    * Taxis are available from Heathrow. The journey to the London Film Museum takes around 30-45 minutes, depending on traffic.
+    * Taxis are available from Heathrow. The journey to BFI Southbank takes around 30-45 minutes, depending on traffic.
 
 4. By Bus:
-    * You can take the National Express or a local bus service from Heathrow to Central London, then use the Tube or a taxi to reach the museum.
+    * You can take the National Express or a local bus service from Heathrow to Central London, then use the Tube or a taxi to reach BFI Southbank.
 
-Each of these options offers a convenient way to get from Heathrow Airport to the London Film Museum, with the Tube being the most cost-effective and the taxi being the most direct.
+Each of these options provides a convenient way to travel from Heathrow Airport to BFI Southbank, with the Tube being the most cost-effective and the taxi being the most direct.
 
 ---
 ## Accommodation
