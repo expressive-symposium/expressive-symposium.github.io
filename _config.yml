@@ -93,6 +93,10 @@ symposium:
     location: London, UK
     URL: expressive.graphics/2025
     sponsors:
+    - name: Adobe
+      url: https://www.adobe.com/
+      logo: /img/adobe.png
+      class: col-sm-10
     - name: ACM Siggraph
       url: http://www.siggraph.org/
       logo: /img/SIGGRAPH-logo.png
