@@ -16,8 +16,7 @@ year: 2025
 * **[Attractions](#attractions)**
 * **[What's On](#whats-on)**
 
-Expressive 2025 will officially start and end shortly before Eurographics 2025. The symposium will be held at BFI Southbank, London SE1 8XT, United Kingdom.
-
+Expressive 2025 will officially start and end shortly before Eurographics 2025. The symposium will be held at BFI Southbank, London SE1 8XT, United Kingdom, and an additional half-day session on May 11 at Goldsmiths, University of London, 8 Lewisham Way, London SE14 6NW, from 13:00 to 17:00.
 <div class="row">
 
 <div class="col-7 col-sm-7 col-lg-7" markdown="1">
@@ -32,6 +31,29 @@ Expressive 2025 will officially start and end shortly before Eurographics 2025. 
 <!-- <i><a href="https://www.coventgarden.com/listings/london-film-museum/">London Film Museum</a></i><br/> -->
 
 <i>BFI Southbank, London SE1 8XT<br/></i><br/><br/>
+
+<!-- with the partial support of:
+
+<i><a href="http://entimement.dibris.unige.it">EU Horizon 2020 FET PROACTIVE project EnTimeMent n.824160 (2019-2022)</a></i><br/><br/>
+
+<img src="/img/h2020_mod_01.png" width="25%" class="img-responsive pull-center"> -->
+
+</div>
+
+<div class="row">
+
+<div class="col-7 col-sm-7 col-lg-7" markdown="1">
+
+<iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.1218758597!2d-0.0379919236448783!3d51.47427717180588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487602f81f1bd2cf%3A0xeb2cff5d2300d7f8!2sGoldsmiths%2C%20University%20of%20London!5e0!3m2!1sen!2spt!4v1743410522609!5m2!1sen!2spt" allowfullscreen>
+</iframe>
+
+</div>
+
+<h3>Additional Venue – May 11:</h3>
+
+<!-- <i><a href="https://www.coventgarden.com/listings/london-film-museum/">London Film Museum</a></i><br/> -->
+
+<i>Goldsmiths, University of London, 8 Lewisham Way, London SE14 6NW<br/></i><br/><br/>
 
 <!-- with the partial support of:
 
