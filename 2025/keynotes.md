@@ -9,9 +9,9 @@ year: 2025
 <div class="col-12 col-sm-12 col-lg-12">
 
       <a name="kn1"></a>
-      <!-- <h3><i>Can Computers Create Art?</i></h3> -->
+    	<h3><i>Building the Big One: A Studio-Size Light Stage</i></h3>
 
-      <p><b>Paul Debevec</b><br/>Chief Research Officer, <i>Eyeline Studios</i></p>
+      <p><b>Paul Debevec</b><br/>Chief Research Officer, <i>Netflix’s Eyeline Studios</i></p>
 
 	  <div class="row">
 
@@ -19,9 +19,13 @@ year: 2025
 		  <img src="/img/2025/Paul.jpg" class="img-responsive img-thumbnail">
 		</figure>
 
-		  <!-- <p>Abstract:<br/>I discuss whether computers, using Artificial Intelligence, could create art. I review important points in the history of automation in art, examining the hype and reality of AI tools for art together with predictions about they will be used. The nature of current computer-generated art is discussion, and then it is hypothesized when we might ever credit an AI with authorship of art.</p> -->
+		  <p>Abstract:<br/>Compositing real actors into virtual environments has been a challenge in visual effects since the early days of motion pictures. Techniques such as rear projection, front projection, blue screen, and sodium vapor matting have provided innovative solutions for integrating actors seamlessly into virtual backgrounds. However, achieving realistic lighting has remained a critical hurdle.
 
-		  <p>Biography:<br/>Paul Debevec received degrees in Computer Engineering and Mathematics from the University of Michigan, Ann Arbor in 1992 and a Ph.D. in Computer Science from the University of California, Berkeley in 1996. He is the Chief Research Officer at Netflix’s Eyeline Studios, an Adjunct Research Professor at the University of Southern California, and a Governor of the Visual Effects Branch of the Academy of Motion Pictures Arts and Sciences as well as a co-chair of the Academy's Sci-Tech Council. Paul's work in technology for visual effects and virtual production has been recognized with two Academy Awards for Scientific and Technical Achievement, the Progress Medal from the Society of Motion Picture and Television Engineers, and in 2022, the Charles F. Jenkins Lifetime Achievement Emmy Award.</p>
+		  The development of light stage systems aimed to solve this issue by ensuring actors are illuminated in a way that matches their environments, leading to fully believable composites. After numerous prototypes, the studio-sized light stage is now ready. This talk will provide an overview of its development and explore the new production techniques it enables, including lighting reproduction, relighting, and large-scale volumetric capture.</p>
+
+		  <p>Biography:<br/>Paul Debevec received his degrees in Computer Engineering and Mathematics from the University of Michigan in 1992 and earned a Ph.D. in Computer Science from the University of California, Berkeley in 1996. He is currently the Chief Research Officer at Netflix’s Eyeline Studios, an Adjunct Research Professor at the University of Southern California, and a Governor of the Visual Effects Branch of the Academy of Motion Picture Arts and Sciences.
+		  His contributions to visual effects and virtual production have been featured in films such as The Matrix, Avatar, and Gravity. His work has been recognized with two Academy Awards, the SMPTE Progress Medal, and a Lifetime Achievement Emmy Award.
+		  More information: <a href="http://www.debevec.org">www.debevec.org</a> </p>
 
 	  </div>
 

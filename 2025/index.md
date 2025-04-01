@@ -9,8 +9,11 @@ year: 2025
 ---
 ### Expressive+WICED 2025 is officially co-located with Eurographics 2025 in London!
 
-For the first time, the Expressive symposium and WICED workshop will be joining hands this year at Eurographics in London.
-
+For the first time, the Expressive symposium and WICED workshop will be joining hands this year at Eurographics in London.<br>
+We are thrilled to announce that, <b>due to an unexpected number of interesting submissions</b>, the total number of accepted papers has exceeded our initial expectations. 
+To ensure ample time for presentations and meaningful discussions and to incorporate an interesting art demo from the Goldsmiths University of London, we have decided to <b>extend the conference by half a day before Eurographics</b>.<br> 
+The Expressive+WICED’25 conference will <b>start on May 11</b>, 2025, from 13:00 to 17:00, with a half-day session at Goldsmiths, University of London.<br>
+The <b>main conference</b> will take place from <b>May 12 to May 15</b>, 2025, at BFI Southbank, with sessions running daily from 09:00 to 17:00.
 ## Aims and Scope
 {: .top1}
 The Expressive+WICED event explores the capacity of computer graphics, animation, and computational media to be used in artistic, aesthetic, and creative ways. The field can be seen as encompassing problems in expressive __understanding__, expressive __communication__, and expressive __interaction__:
