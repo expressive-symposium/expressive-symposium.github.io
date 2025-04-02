@@ -10,27 +10,28 @@ year: 2025
 ---
 
 * **[Travel to London](#travel-to-london)**
+* **[Travel to Goldsmiths University of London](#travel-to-goldsmiths-university-of-london)**
 * **[Travel to BFI Southbank](#travel-to-bfi-southbank)**
 * **[Accommodation](#accommodation)**
 * **[Coffee Breaks and Lunch](#coffee-breaks-and-lunch)**
 * **[Attractions](#attractions)**
 * **[What's On](#whats-on)**
 
-Expressive 2025 will officially start and end shortly before Eurographics 2025. The Expressive+WICED’25 conference will <b>start at 13:00 on May 11, 2025, with an additional half-day session at Goldsmiths, University of London</b> (8 Lewisham Way, London SE14 6NW) featuring art demos and selected paper presentations from 13:00 to 17:00. <b>The main conference will take place from May 12 to May 15 at BFI Southbank</b> (London SE1 8XT), with sessions running daily from 09:00 to 17:00.
+Expressive 2025 will officially start and end shortly before Eurographics 2025. The Expressive+WICED’25 conference will <b>start at 13:00 on May 11, 2025, with a half-day session at Goldsmiths, University of London </b> (8 Lewisham Way, London SE14 6NW) featuring art demos and selected paper presentations from 13:00 to 17:00. <b>The main conference will take place on May 12, 2025, at BFI Southbank</b> (Belvedere Rd, London SE1 8XT), running from 09:00 to 17:00.
 <div class="row">
 
 <div class="col-7 col-sm-7 col-lg-7" markdown="1">
 
-<iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.343136911277!2d-0.11771348807949361!3d51.50692047169557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b7e7c78711%3A0x3427f18d546137bd!2sBFI%20Southbank!5e0!3m2!1spt-PT!2spt!4v1742469914382!5m2!1spt-PT!2spt" allowfullscreen>
+<iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.1218758597!2d-0.0379919236448783!3d51.47427717180588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487602f81f1bd2cf%3A0xeb2cff5d2300d7f8!2sGoldsmiths%2C%20University%20of%20London!5e0!3m2!1sen!2spt!4v1743410522609!5m2!1sen!2spt" allowfullscreen>
 </iframe>
 
 </div>
 
-<h3>Hosting institution – May 12 to May 15 </h3>
+<h3>Opening Session – May 11:</h3>
 
 <!-- <i><a href="https://www.coventgarden.com/listings/london-film-museum/">London Film Museum</a></i><br/> -->
 
-<i>BFI Southbank, London SE1 8XT<br/></i><br/><br/>
+<i>Goldsmiths, University of London, 8 Lewisham Way, London SE14 6NW<br/></i><br/><br/>
 
 <!-- with the partial support of:
 
@@ -44,16 +45,16 @@ Expressive 2025 will officially start and end shortly before Eurographics 2025. 
 
 <div class="col-7 col-sm-7 col-lg-7" markdown="1">
 
-<iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.1218758597!2d-0.0379919236448783!3d51.47427717180588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487602f81f1bd2cf%3A0xeb2cff5d2300d7f8!2sGoldsmiths%2C%20University%20of%20London!5e0!3m2!1sen!2spt!4v1743410522609!5m2!1sen!2spt" allowfullscreen>
+<iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.343136911277!2d-0.11771348807949361!3d51.50692047169557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b7e7c78711%3A0x3427f18d546137bd!2sBFI%20Southbank!5e0!3m2!1spt-PT!2spt!4v1742469914382!5m2!1spt-PT!2spt" allowfullscreen>
 </iframe>
 
 </div>
 
-<h3>Additional Venue – May 11:</h3>
+<h3>Main Conference Venue – May 12:</h3>
 
 <!-- <i><a href="https://www.coventgarden.com/listings/london-film-museum/">London Film Museum</a></i><br/> -->
 
-<i>Goldsmiths, University of London, 8 Lewisham Way, London SE14 6NW<br/></i><br/><br/>
+<i>BFI Southbank, London SE1 8XT<br/></i><br/><br/>
 
 <!-- with the partial support of:
 
@@ -83,6 +84,33 @@ London is one of the most popular destinations for international flights, with n
 <figure>
 <img src="/img/2025/flying_connections.png" width="60%" class="img-responsive pull-center">
 </figure>
+---
+## Travel to Goldsmiths University of London
+
+To reach Goldsmiths, University of London (8 Lewisham Way, London SE14 6NW) from Heathrow Airport (LHR), you have several convenient options:
+
+1. By Tube (London Underground):
+    * Take the Piccadilly Line from Heathrow Airport towards Central London.
+    * Change at Green Park to the Jubilee Line and travel towards London Bridge.
+    * At London Bridge, switch to National Rail services and take a train to New Cross Gate or New Cross Station (both are within walking distance of Goldsmiths).
+The total journey takes approximately 60-70 minutes.
+
+2. By Train:
+    * Take the Heathrow Express from Heathrow Airport to Paddington Station (15 minutes).
+    * From Paddington, take the Bakerloo Line (Underground) to Charing Cross.
+    * From Charing Cross, take a National Rail train to New Cross Station.
+Walk to Goldsmiths from New Cross (about 5 minutes). This option takes around 50-60 minutes.
+
+3. By Taxi:
+    * Taxis are available from Heathrow. 
+The journey to Goldsmiths takes around 60-90 minutes, depending on traffic.
+
+4. By Bus:
+    * You can take the National Express or a local bus service from Heathrow to Central London.
+    * From Central London, use the Tube or National Rail to reach New Cross Station.
+    * Walk to Goldsmiths from there.
+
+Each of these options provides a convenient way to travel from Heathrow Airport to Goldsmiths, University of London, with the Tube and train being the most cost-effective and a taxi being the most direct.
 
 ---
 ## Travel to BFI Southbank
@@ -102,7 +130,8 @@ This journey takes approximately 50-60 minutes.
 This option takes around 40-50 minutes.
 
 3. By Taxi:
-    * Taxis are available from Heathrow. The journey to BFI Southbank takes around 30-45 minutes, depending on traffic.
+    * Taxis are available from Heathrow. 
+The journey to BFI Southbank takes around 30-45 minutes, depending on traffic.
 
 4. By Bus:
     * You can take the National Express or a local bus service from Heathrow to Central London, then use the Tube or a taxi to reach BFI Southbank.

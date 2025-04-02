@@ -9,7 +9,7 @@ year: 2025
   <a href="https://events.eg.org/Expressive2019"><img src="/img/2019/register.jpg" class="img-responsive pull-center"></a>
 </figure>
 
-Our online registration form is located at **[https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-engineering-c05/computer-science-f48/f48-expresssive-2025](https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-engineering-c05/computer-science-f48/f48-expresssive-2025)** 
+Our online registration form is located at: **[https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-engineering-c05/computer-science-f48/f48-expresssive-2025](https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-engineering-c05/computer-science-f48/f48-expresssive-2025)** 
 
 
 ### Expressive Registration Fees
@@ -21,7 +21,7 @@ _All prices are in Pounds_
 
 	<div class="panel panel-default">
 		<!-- Default panel contents -->
-		 <div class="panel-heading">Last Booking Date for this Event <b>Until 14th May 2025</b></div> 
+		 <div class="panel-heading"><b>Attendee Category</b></div> 
 
 		<!-- Table -->
 		 <table class="table table-striped">
