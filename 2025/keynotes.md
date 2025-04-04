@@ -19,7 +19,7 @@ year: 2025
 		  <img src="/img/2025/Paul.jpg" class="img-responsive img-thumbnail">
 		</figure>
 
-		  <p>Abstract:<br/>Compositing real actors into virtual environments has been a challenge in visual effects since the early days of motion pictures. Techniques such as rear projection, front projection, blue screen, and sodium vapor matting have provided innovative solutions for integrating actors seamlessly into virtual backgrounds. However, achieving realistic lighting has remained a critical hurdle.
+		  <p>Abstract:<br/>Compositing real actors into virtual environments has been a challenge in visual effects since the early days of motion pictures. Techniques such as rear projection, front projection, blue screen, and sodium vapor matting have provided innovative solutions for integrating actors seamlessly into virtual backgrounds. However, achieving realistic lighting has remained a critical hurdle.<br>
 
 		  The development of light stage systems aimed to solve this issue by ensuring actors are illuminated in a way that matches their environments, leading to fully believable composites. After numerous prototypes, the studio-sized light stage is now ready. This talk will provide an overview of its development and explore the new production techniques it enables, including lighting reproduction, relighting, and large-scale volumetric capture.</p>
 
@@ -35,7 +35,7 @@ year: 2025
 <div class="col-12 col-sm-12 col-lg-12">
 
       <a name="kn1"></a>
-      <!-- <h3><i>Can Computers Create Art?</i></h3> -->
+      <h3><i>Sketching the Future: Democratising Creative Control via Sketching</i></h3>
 
       <p><b>Prof. Yi-Zhe Song</b><br/>Co-Director, <i>Surrey's People-Centred AI Institute</i></p>
 
@@ -45,11 +45,15 @@ year: 2025
 		  <img src="/img/2025/people-Prof. Yi-Zhe Song.050.webp" class="img-responsive img-thumbnail">
 		</figure>
 
-		  <!-- <p>Abstract:<br/>I discuss whether computers, using Artificial Intelligence, could create art. I review important points in the history of automation in art, examining the hype and reality of AI tools for art together with predictions about they will be used. The nature of current computer-generated art is discussion, and then it is hypothesized when we might ever credit an AI with authorship of art.</p> -->
+		 <p>Abstract:<br/>The journey of human-AI creative collaboration has been fundamentally transformed by our ability to communicate visual intent. This keynote traces the evolution of sketch-based capabilities as a democratising force in AI-powered creative systems, from early recognition challenges to today's generative frontiers.<br>
 
-		  <p>Biography:<br/>Yi-Zhe Song is a Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP). He leads the SketchX Lab, focusing on understanding human visual systems through sketch data. He is an Associate Editor for IEEE TPAMI and Frontiers in Computer Science – Computer Vision, and has served as Area Chair for major conferences like ECCV, CVPR, and ICCV. SketchX consistently publishes in top-tier conferences and journals, including winning a Best Paper Award at BMVC 2015.
+Beginning with the breakthrough of the first deep learning system to surpass human performance in sketch recognition, I will discuss how understanding the unique properties of sketches established theoretical frameworks that now underpin modern visual control mechanisms. In particular, I will examine how the inherent abstraction in sketching correlates with semantic understanding, making it an ideal modality for human-AI communication across expertise levels.<br>
 
-Prof. Song founded and leads the MSc in AI programme at Surrey and previously established a similar programme at Queen Mary University of London. He holds a PhD from the University of Bath, an MSc from the University of Cambridge, and a Bachelor's Degree from Bath. He is a Senior Member of IEEE, a Fellow of the Higher Education Academy, and a member of the EPSRC review college.</p>
+The talk will highlight key milestones in this evolution: from developing fine-grained visual understanding through sketch-based image retrieval systems to creating multimodal frameworks that combine sketches with text, photos, and 3D representations, where complementary modalities achieve precision exceeding either alone. I will finish by showcasing how the lab intends to further the journey of democratising AI through recent work on DemoFusion and NitroFusion that directly addresses not only control but also accessibility.<br>
+
+Looking forward, I will outline a vision for truly accessible creative AI systems where sketching serves as an intuitive control interface, enabling diverse users across technical backgrounds to harness powerful AI capabilities.</p>
+
+		  <p>Biography:<br/>Yi-Zhe Song is Professor of Computer Vision and Machine Learning at the Centre for Vision Speech and Signal Processing (CVSSP) and co-director of the Surrey People-Centred AI Institute. As founder and leader of the SketchX Lab (est. 2012), he has driven groundbreaking research in sketch understanding, including the first deep neural network to surpass human performance in sketch recognition (BMVC 2015 Best Paper Award). His work spans fine-grained sketch-based image retrieval, domain generalisation, and bridging sketch with mainstream computer vision, with recent contributions in sketch-based object recognition earning a Best Paper nomination at CVPR 2023. He serves as Associate Editor for IEEE TPAMI and IJCV and has been Area Chair for ECCV, CVPR, and ICCV. Prof. Song established and directs Surrey's MSc in AI programme, following a similar initiative he created at Queen Mary University of London.</p>
 
 	  </div>
 
