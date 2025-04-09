@@ -17,7 +17,7 @@ year: 2025
 * **[Attractions](#attractions)**
 * **[What's On](#whats-on)**
 
-Expressive 2025 will officially start and end shortly before Eurographics 2025. The Expressive+WICED’25 conference will <b>start at 13:00 on May 11, 2025, with a half-day session at Goldsmiths, University of London </b> (8 Lewisham Way, London SE14 6NW) featuring art demos and selected paper presentations from 13:00 to 17:00. <b>The main conference will take place on May 12, 2025, at BFI Southbank</b> (Belvedere Rd, London SE1 8XT), running from 09:00 to 17:00.
+Expressive 2025 will officially start and end shortly before Eurographics 2025. The Expressive+WICED’25 conference will <b>start at 13:00 on May 11, 2025, with a half-day session held in the Cinema at Goldsmiths, University of London </b> (8 Lewisham Way, London SE14 6NW) featuring art demos and selected paper presentations from 13:00 to 17:00. <b> You can find the Cinema, where the session will be held, on the <a href="https://www.gold.ac.uk/campus-map/cinema/">Goldsmiths campus map here</a>. The main conference will take place on May 12, 2025, at BFI Southbank</b> (Belvedere Rd, London SE1 8XT), running from 09:00 to 17:00.
 <div class="row">
 
 <div class="col-7 col-sm-7 col-lg-7" markdown="1">
