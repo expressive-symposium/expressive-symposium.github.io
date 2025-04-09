@@ -31,7 +31,7 @@ Expressive 2025 will officially start and end shortly before Eurographics 2025. 
 
 <!-- <i><a href="https://www.coventgarden.com/listings/london-film-museum/">London Film Museum</a></i><br/> -->
 
-<i>Goldsmiths, University of London, 8 Lewisham Way, London SE14 6NW<br/></i><br/><br/>
+<i><a href="https://www.gold.ac.uk/campus-map/cinema/">Goldsmiths, University of London, Cinema location</a>, 8 Lewisham Way, London SE14 6NW<br/></i><br/><br/>
 
 <!-- with the partial support of:
 
