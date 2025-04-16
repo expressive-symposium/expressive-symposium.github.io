@@ -86,63 +86,48 @@ year: 2025
 		<div class="panel-body">
 
 		  <div class="col-4 col-sm-4 col-lg-4">
-				<!-- <h4>Paul Asente<br><small>Adobe Research, US</small></h4>
-				<h4>Tunç Aydın<br><small>Disney Research Zurich, CH</small></h4>
-				<h4>Seok-Hyung Bae<br><small>KAIST, KR</small></h4>
-				<h4>Loïc Barthe<br><small>Université Paul Sabatier, FR</small></h4>
-				<h4>Alexandra Bonnici<br><small>University of Malta, MT</small></h4>
-				<h4>Antonio Camurri<br><small>University of Genoa, IT</small></h4>
-				<h4>Nathan Carr<br><small>Adobe Research, US</small></h4>
-				<h4>Forrester Cole<br><small>Google, US</small></h4>
-				<h4>John Collomosse<br><small>University of Surrey, EN</small></h4>
-				<h4>Frederic Cordier<br><small>University of Haute Alsace, FR</small></h4>
-				<h4>Mario Costa Sousa<br><small>University of Calgary, CA</small></h4>
-				<h4>Boris Dalstein<br><small>VGC, FR</small></h4>
-				<h4>Oliver Deussen<br><small>University of Konstanz, DE</small></h4>
-				<h4>John Dingliana<br><small>Trinity College Dublin, IE</small></h4>
-				<h4>Neil Dodgson<br><small>Victoria University of Wellington, NZ</small></h4>
-				<h4>Jürgen Döllner<br><small>HPI, University of Potsdam, DE</small></h4>
-				<h4>Katayoon Etemad<br><small>University of Calgary, CA</small></h4> -->
+			<h4>Rinat Abdrashitov<br><small>University of Toronto, Canada</small></h4>
+			<h4>Ergun Akleman<br><small>Texas A&M University, USA</small></h4>
+			<h4>Loïc Barthe<br><small>Université Paul Sabatier, France</small></h4>
+			<h4>Pierre Benard<br><small>University of Bordeaux, France</small></h4>
+			<h4>Nathan Carr<br><small>Adobe Research, USA</small></h4>
+			<h4>Teresa Chambel<br><small>University of Lisbon, Portugal</small></h4>
+			<h4>John Collomosse<br><small>University of Surrey, UK</small></h4>
+			<h4>Mario Costa Sousa<br><small>University of Calgary, Canada</small></h4>
+			<h4>Oliver Deussen<br><small>University of Konstanz, Germany</small></h4>
+			<h4>John Dingliana<br><small>Trinity College Dublin, Ireland</small></h4>
+			<h4>Neil Dodgson<br><small>Victoria University of Wellington, New Zealand</small></h4>
+			<h4>Jose Echevarria<br><small>Adobe Research, USA</small></h4>
 			</div>
 
 			<div class="col-4 col-sm-4 col-lg-4">
-				<!-- <h4>Yotam Gingold<br><small>George Mason University, US</small></h4>
-				<h4>Bruce Gooch<br><small>Texas A&M University, US</small></h4>
-				<h4>Yann Gousseau<br><small>Telecom ParisTech, FR</small></h4>
-				<h4>Cindy Grimm<br><small>Oregon State University, US</small></h4>
-				<h4>Eduard Gröller<br><small>Vienna University of Technology, AT</small></h4>
+				<h4>Yotam Gingold<br><small>George Mason University, USA</small></h4>
+				<h4>Yann Gousseau<br><small>Telecom ParisTech, France</small></h4>
+				<h4>Liat Grayver<br><small>indipendent artist, Israel</small></h4>
 				<h4>Peter Hall<br><small>University of Bath, UK</small></h4>
-				<h4>Aaron Hertzmann<br><small>Adobe Research, US</small></h4>
-				<h4>John Hughes<br><small>Brown University, US</small></h4>
-				<h4>Thomas Hurtut<br><small>Polytechnique Montreal, CA</small></h4>
-				<h4>Victoria Interrante<br><small>University of Minnesota, US</small></h4>
-				<h4>Tobias Isenberg<br><small>Inria, FR</small></h4>
-				<h4>Yu-Kun Lai<br><small>Cardiff University, UK</small></h4>
-				<h4>Ligang Liu<br><small>USTC, CN</small></h4>
-			    <h4>Jim McCann<br><small>Carnegie Mellon University, US</small></h4>
-				<h4>Barbara Meier<br><small>Brown University, US</small></h4>
-				<h4>David Mould<br><small>Carleton University, CA</small></h4>
-				<h4>Tania Pouli<br><small>Technicolor, FR</small></h4> -->
-			</div>
-
-			<div class="col-4 col-sm-4 col-lg-4">
-				<!-- <h4>Christian Richardt<br><small>University of Bath, UK</small></h4>
-				<h4>Remi Ronfard<br><small>Inria, FR</small></h4>
+				<h4>Tobias Isenberg<br><small>INRIA, France</small></h4>
+				<h4>Ying Jiang<br><small>UCLA, USA</small></h4>
+				<h4>Craig Kaplan<br><small>University of Waterloo, Canada</small></h4>
+				<h4>Yukun Lai<br><small>Cardiff University, UK</small></h4>
+				<h4>Ligang Liu<br><small>USTC, Cina</small></h4>
+				<h4>Charles Pontonnier<br><small>Ecole Normale Supérieure de Rennes, France</small></h4>
+				<h4>Rémi Ronfard<br><small>INRIA, France</small></h4>
 				<h4>Paul Rosin<br><small>Cardiff University, UK</small></h4>
-				<h4>Faramarz Samavati<br><small>University of Calgary, CA</small></h4>
-				<h4>Anthony Santella<br><small>Sloan Kettering Institute, US</small></h4>
-				<h4>Mateu Sbert<br><small>Tianjin University, CN</small></h4>
-				<h4>Metin Sezgin<br><small>Koc University, TR</small></h4>
-				<h4>Peter Shirley<br><small>NVIDIA, US</small></h4>
-				<h4>Maryann Simmons<br><small>Walt Disney Animation Studios, US</small></h4>
-				<h4>Karan Singh<br><small>University of Toronto, CA</small></h4>
-				<h4>Daniel Sýkora<br><small>Czech Technical University in Prague, CZ</small></h4>
-				<h4>Joëlle Thollot<br><small>Grenoble Inp - LJK, FR</small></h4>
-				<h4>David Vanderhaeghe<br><small>IRIT Université de Toulouse, FR</small></h4>
-				<h4>Luiz Velho<br><small>IMPA, BR</small></h4>
-				<h4>Holger Winnemöller<br><small>Adobe Research, US</small></h4>
-				<h4>Mingtian Zhao<br><small>DMAI, US</small></h4>  -->
-			</div>
+				</div>
+			<div class="col-4 col-sm-4 col-lg-4">
+				<h4>Diego Royo<br><small>University of Zaragoza, Spain</small></h4>
+				<h4>Anthony Santella<br><small>Sloan Kettering Institute, USA</small></h4>
+				<h4>Mateu Sbert<br><small>Tianjin University, Cina</small></h4>
+				<h4>Michael Stroh<br><small>University of Konstanz, Germany</small></h4>
+				<h4>Wanchao SU<br><small>Monash University, Cina</small></h4>
+				<h4>Daniel Sýkora<br><small>Czech Technical University in Prague, Czech Republic</small></h4>
+				<h4>David Vanderhaeghe<br><small>IRIT University of Toulouse, France</small></h4>
+				<h4>Gualtiero Volpe<br><small>University of Genoa, Italy</small></h4>
+				<h4>Hui-Yin Wu<br><small>INRIA, France</small></h4>
+				<h4>Pengfei Xu<br><small>Shenzhen University, Cina</small></h4>
+				<h4>Deng Yu<br><small>Shandong University, Cina</small></h4>
+				</div>
+
 
 		</div>
 	</div>
