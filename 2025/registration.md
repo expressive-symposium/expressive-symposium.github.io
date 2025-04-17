@@ -30,7 +30,7 @@ _All prices are in Pounds_
 			<tr><td>Non-student Member</td><td>£240.00</td><td></td></tr>
 			<tr><td>Non-student Non-member</td><td>£290.00</td><td></td></tr>
 			<tr><td>Big Buddy Member</td><td>£460.00</td><td></td></tr>
-			<tr><td>Big Buddy Non-Member</td><td>£140.00</td><td></td></tr>
+			<tr><td>Big Buddy Non-Member</td><td>£595.00</td><td></td></tr>
 
 		</table> 
 	</div>
