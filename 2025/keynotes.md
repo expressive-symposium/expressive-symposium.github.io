@@ -34,7 +34,7 @@ year: 2025
 
 <div class="col-12 col-sm-12 col-lg-12">
 
-      <a name="kn1"></a>
+      <a name="kn2"></a>
       <h3><i>Sketching the Future: Democratising Creative Control via Sketching</i></h3>
 
       <p><b>Prof. Yi-Zhe Song</b><br/>Co-Director, <i>Surrey's People-Centred AI Institute</i></p>
