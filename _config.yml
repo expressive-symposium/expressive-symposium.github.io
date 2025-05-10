@@ -109,6 +109,10 @@ symposium:
       url: https://cinematography.inria.fr/
       logo: /img/UNIRENNES_LOGOnoir.png
       class: col-sm-6
+    - name: Eyeline Studios
+      url: https://www.eyelinestudios.com/
+      logo: /img/Eyeline-studios.png
+      class: col-sm-6
     paper: February 03, 2025 
     extension: February 10, 2025
     extention-poster-demo: February 20, 2025

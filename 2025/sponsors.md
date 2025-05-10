@@ -26,20 +26,18 @@ year: 2025
 <figure class="col-5 col-sm-5 col-lg-5 top0">
 <img src="/img/2025/UNIRENNES_LOGOnoir.png" class="img-responsive">
 </figure>
-<!--
+
 <figure class="col-5 col-sm-5 col-lg-5 top0">
-<img src="/img/casa_paganini-logo.jpg" class="img-responsive">
-<figcaption class="image-credit">Casa Paganini-InfoMus Research Centre</figcaption>
-</figure> -->
+<img src="/img/adobe.png" class="img-responsive">
+</figure>
 
 </div>
 
 <div class="row">
 
-<!-- <figure class="col-3 col-sm-3 col-lg-3 top0">
-<img src="/img/h2020_mod_01.png" class="img-responsive">
-<figcaption class="image-credit">EU Horizon 2020 FET PROACTIVE project EnTimeMent n.824160</figcaption>
-</figure> -->
+ <figure class="col-5 col-sm-5 col-lg-5 top0">
+<img src="/img/Eyeline-studios.png" class="img-responsive">
+</figure>
 
 </div>
 
